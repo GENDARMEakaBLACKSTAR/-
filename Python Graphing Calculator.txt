@@ -1,0 +1,42 @@
+#MAJORLY UNFINISHED
+#MAJORLY UNFINISHED
+#MAJORLY UNFINISHED
+#MAJORLY UNFINISHED
+#MAJORLY UNFINISHED
+#MAJORLY UNFINISHED
+#MAJORLY UNFINISHED - for those who fail to pay attention...
+
+try:
+    x_coo = input("mx: ")
+    y_coo = input("y: ")
+    y_intercept = input("b: ")
+    problem0 = input("choose problem\n 1. #y = mx b\n 2. mx = #y b\n 3. y mx = b\n 4. mx y = b\n 5. b mxy = y\n 6. b = mxy \n")
+except:
+    print("invalid input")
+
+graph_ints = [x_coo, y_coo, y_intercept]
+
+if problem0 == "1":
+    try:
+        print(f"{y_coo} = {x_coo} ? {y_intercept}")
+        operator0 = input("what is the operation between mx and b? ")
+        
+        if operator0 == "adding":
+            print(f"{y_coo} = {x_coo} + {y_intercept} ")
+            
+        elif operator0 == "subtracting":
+            print(f"{y_coo} = {x_coo} - {y_intercept}")
+            
+    except:
+        print("invalid input") 
+        
+    def isinterger(y_coo):
+        return isinstance(y_coo, int)
+        
+    print(isinterger(y_coo))
+else 
+            
+
+
+
+
