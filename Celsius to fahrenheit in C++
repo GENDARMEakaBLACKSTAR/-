@@ -1,0 +1,26 @@
+#include <iostream>
+#include <cstdlib>
+#include <cstdio>
+
+using namespace std;
+
+int main(int nNumberofArgs, char* pszArgs[])
+{
+    int celsius;
+    cout  << "Enter the temperature in celcius: ";
+    cin >> celsius;
+    
+    int factor;
+    factor = 212 - 32;
+    
+    int fahrenheit = factor * celsius * celsius/100 + 32;
+    
+    cout << "Fahrenheit value is: ";
+    cout << fahrenheit << endl;
+    
+    cout << "Press enter to continue..." << endl;
+    cin.ignore(10, '\n');
+    cin.get();
+    return 0;
+}
+// yes, I wrote this
