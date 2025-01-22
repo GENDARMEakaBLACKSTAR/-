@@ -23,4 +23,4 @@ int main(int nNumberofArgs, char* pszArgs[])
     cin.get();
     return 0;
 }
-// yes, I wrote this
+// C++ is hard as hell bruh...
