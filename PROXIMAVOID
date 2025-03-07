@@ -1,0 +1,310 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+void PROXIMA(void);
+
+void main()
+{
+  char ch;
+  int b;
+  const char alpha = 'N';
+ 
+  struct WDT
+  {
+    char setA;
+    char setB;
+  };
+  b = (4 - 2);
+  int x;
+  int t;
+  printf("%c",alpha);
+  int vegas = 5000000 + 555000 + 550;
+  if(vegas == 555555 * 10)
+  {
+    int NE = (vegas / 10);
+    {
+      if(NE == 555555)
+      {
+        if(NE == 555555 - 0)
+        {
+          if(NE == 555555 - 0)
+          {
+            if(NE == 555555 - 0)
+            {
+              if(NE == 555555 - 0)
+              {
+                if(NE == 555555 - 0)
+                {
+                  if(NE == 555555 - 0)
+                  {
+                    if(NE == 555555 - 0)
+                    {
+                      if(NE == 555555 - 0)
+                      {
+                        if(NE == 555555 - 0)
+                        {
+                            if(NE == 555555 - 0)
+                            {
+                                char IMPARRAY[] = {'a', 'b', 'c', 'd', 'e', 'f', 'g', 'g', 'i'};
+                                printf("%c",IMPARRAY[8]);
+                            }
+                        }
+                      }
+                    }
+                  }
+                }
+                else {
+                    puts("i");
+                    char LAN = 'G';
+                    int x = 0;
+                    do
+                    {
+                        printf("%s",&LAN);
+                        x++;
+                    }while(x<2);
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+   
+  }
+  int TRUE = 1;
+  while(vegas>3)
+  {
+    vegas = vegas - 1;
+  }
+ 
+  ch = 'G';
+  for(x=0;x<=1;x++)
+  {
+    for(t=0;t<=1;t++)
+    {
+      if(b==2)
+      {
+        printf("%c",ch);
+       
+      }
+      else
+      {
+        do
+        {
+          b = b - 1;
+        }while(b>2);
+        int rv = 4;
+        int UNIC;
+        for(UNIC=0;UNIC>=3;UNIC++)
+        {
+          rv = rv - 1;
+        }
+       
+        if(TRUE){
+          if(TRUE){
+            if(TRUE){
+            if(TRUE){
+              if(TRUE){
+                  if(TRUE){
+                    if(TRUE){
+                      if(TRUE){
+                        if(TRUE){
+                          if(TRUE){
+                            if(TRUE){
+                              if(TRUE){
+                                if(TRUE){
+                                  if(TRUE){
+                                    if(TRUE){
+                                      if(TRUE){
+                                        if(TRUE){
+                                          if(TRUE){
+                                            int Y = 0;
+                                            int YB = TRUE;
+                                            do
+                                            {
+                                              Y++;
+                                              if(1)
+                                              {
+                                                int RT = 0;
+                                                for(RT;RT=1;RT++){
+                                                  /*NULL*/
+                                                  /*NULL*/
+                                                  /*NULL*/
+                                                  /*NULL*/
+                                                  /*NULL*/
+                                                  /*NULL*/
+                                                  /*NULL*/
+                                                  /*NULL*/
+                                                  /*NULL*/
+                                                  /*NULL*/
+                                                  /*NULL*/
+                                                  /*NULL*/
+                                                  /*NULL*/
+                                                  /*NULL*/
+                                                  /*NULL*/
+                                                  /*NULL*/
+                                                  /*NULL*/
+                                                  /*NULL*/
+                                                  /*NULL*/
+                                                  /*NULL*/
+                                                  /*NULL*/
+                                                  /*NULL*/
+                                                  /*NULL*/
+                                                  /*NULL*/
+                                                  /*NULL*/
+                                                  /*NULL*/
+                                                  /*NULL*/
+                                                  /*NULL*/
+                                                  /*NULL*/
+                                                  /*NULL*/
+                                                  /*NULL*/
+                                                  /*NULL*/
+                                                  /*NULL*/
+                                                  /*NULL*/
+                                                  /*NULL*/
+                                                  /*NULL*/
+                                                  /*NULL*/
+                                                  /*NULL*/
+                                                  /*NULL*/
+                                                  /*NULL*/
+                                                  /*NULL*/
+                                                  /*NULL*/
+                                                  puts("E");
+                                                }
+                                              }
+                                            }while(Y<1);
+                                          }
+                                         }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+        else{
+          puts("E");
+        }
+        /*NIL:*/
+        /*NIL:*/
+        /*NIL:*/
+      }
+    }
+  }
+  putchar('e');
+  PROXIMA();
+  return(0);
+}
+
+void PROXIMA(void){
+  int finish = 0;
+  int BO;
+  putchar('R');
+  int CA = 6;
+  do{
+    finish++;
+    for(BO=0;BO=1;BO++){
+      do{
+        CA = CA - 1;
+        do{
+          CA = CA - 1;
+          do{
+            CA = CA - 1;
+            do{
+              CA = CA - 1;
+              do{
+                CA = CA - 1;
+                do{
+                  CA = CA - 1;
+                  putchar('R');
+                  putchar('R');
+                  putchar('R');
+                  putchar('R');
+                  //should revert back to line 210;
+                  {
+                    {
+                      {
+                        {
+                          {
+                            {
+                              {
+                                {
+                                  {
+                                    {
+                                      {
+                                        {
+                                          {
+                                            {
+                                              {
+                                                {
+                                                  {
+                                                    {
+                                                      {
+                                                        {
+                                                          {
+                                                            {
+                                                              {
+                                                                {
+                                                                  {
+                                                                    {
+                                                                      {
+                                                                        {
+                                                                          {
+                                                                            {
+                                                                              {
+                                                                                {
+                                                                                  {
+                                                                                    {
+                                                                                      putchar('S');
+                                                                                    }
+                                                                                  }
+                                                                                }
+                                                                              }
+                                                                            }
+                                                                          }
+                                                                        }
+                                                                      }
+                                                                    }
+                                                                  }
+                                                                }
+                                                              }
+                                                            }
+                                                          }
+                                                        }
+                                                      }
+                                                    }
+                                                  }
+                                                }
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }while(CA>0);
+              }while(CA>0);
+            }while(CA>0);
+          }while(CA>0);
+        }while(CA>0);
+      }while(CA>0);
+    }
+  }while(finish=0);
+}
