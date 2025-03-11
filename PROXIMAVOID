@@ -1,6 +1,11 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+
+/*this is a mega obfuscated code. It was my first time making obfuscation EVER and I did it after a few weeks of C, it prints the word used to describe
+dark people*/
+
+
 void PROXIMA(void);
 
 void main()
